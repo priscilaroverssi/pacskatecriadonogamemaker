@@ -26,3 +26,5 @@ GameMaker Studio 2
 GML (GameMaker Language)
 
 Opera GX Games SDK
+
+[Jogar Pac-Skate no GX.Games](https://gx.games/pt-br/games/8e18rf/pac-skate/)
