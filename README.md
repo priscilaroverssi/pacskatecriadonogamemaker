@@ -1,4 +1,4 @@
-![Gameplay do Pac-Skate]("C:\Users\prisc\OneDrive\Imagens\Imagem do WhatsApp de 2023-11-21 à(s) 15.11.11_9df5e36d.jpg")
+![Imagem do WhatsApp de 2023-11-21 à(s) 15 11 11_9df5e36d](https://github.com/user-attachments/assets/8cfa02aa-512a-4143-a70a-0d75e0ece030)
 
 Pac-Skate 🎮🛹
 Um jogo de ação e agilidade desenvolvido na GameMaker Studio, combinando a nostalgia dos clássicos arcade com mecânicas modernas de skate.
