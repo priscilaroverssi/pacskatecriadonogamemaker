@@ -22,7 +22,7 @@ Desenvolvido inteiramente em GML (GameMaker Language) - linguagem de programaç�
 
 🎮 Como Jogar: O jogo está disponível online na plataforma GX.Games (link a ser adicionado)
 
-<h2>🛠️ Tecnologias Utilizadas:</h2>
+<h2>🛠️ Tecnologias Utilizadas</h2>
 
 GameMaker Studio 2
 
