@@ -1,8 +1,8 @@
 ![Imagem do WhatsApp de 2023-11-21 à(s) 15 11 11_9df5e36d](https://github.com/user-attachments/assets/8cfa02aa-512a-4143-a70a-0d75e0ece030)
 
 <h1>Pac-Skate 🎮🛹</h1>
-Um jogo de ação e agilidade desenvolvido na GameMaker Studio, combinando a nostalgia dos clássicos arcade com mecânicas modernas de skate.
 
+<p>Um jogo de ação e agilidade desenvolvido na GameMaker Studio, combinando a nostalgia dos clássicos arcade com mecânicas modernas de skate.</p>
 
 🚀 Sobre o Projeto
 Pac-Skate é um jogo autoral onde você controla um skatista inspirado no icônico Pac-Man. Seu objetivo é desviar de obstáculos, coletar pontos e mostrar suas habilidades sobre o skate em um ambiente cheio de estilo retrô.
